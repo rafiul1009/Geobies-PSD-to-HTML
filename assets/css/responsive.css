@@ -1,0 +1,281 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .promo-fullwidth-bg-area {
+        height: 304px;
+    }
+    .white-bg {
+        height: 364px;
+    }
+    .margin-minus {
+        line-height: 1.7;
+        padding: 18px 36px;
+    }
+    .boxed-content {
+        padding-top: 14px;
+    }
+    .white-bg .bordered-btn {
+        margin-top: 6px;
+        margin-bottom: 20px;
+    }
+    .fullwidth-content {
+        padding: 70px 0;
+        padding-right: 20px;
+        margin-left: -20px;
+    }
+    .partner-list {
+        margin-left: -50px;
+        margin-right: -50px;
+    }
+    .partner-list li a {
+        padding-right: 28px;
+    }
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .slide-text {
+        padding-bottom: 130px;
+        padding-top: 210px;
+    }
+    .mainmenu li a {
+        padding: 50px 0 20px 22px;
+    }
+    .single-work-box {
+        margin-bottom: 15px;
+    }
+    .work-section {
+        padding: 90px 0;
+    }
+    .responsive-work-section {
+        margin: 0 190px;
+    }
+    .service-section {
+        padding-top: 90px;
+        padding-bottom: 60px;
+    }
+    .promo-fullwidth-bg-area {
+        height: 270px;
+    }
+    .white-bg {
+        height: 330px;
+    }
+    .margin-minus {
+        line-height: 1.5;
+        padding: 15px 21px;
+    }
+    .boxed-content h2 {
+        font-size: 30px;
+    }
+    .boxed-content h2 span {
+        font-size: 70px;
+    }
+    .white-bg .bordered-btn {
+        margin-top: 8px;
+    }
+    .fullwidth-content {
+        font-size: 23px;
+        line-height: 32px;
+        margin-left: -24px;
+        padding: 54px 20px 54px 0;
+    }
+    .testimonial-section {
+        padding-top: 110px;
+        padding-bottom: 70px;
+    }
+    .partner-section {
+        height: 160px;
+        padding: 66px 0;
+    }
+    .partner-list img {
+        width: 100px;
+        height: 25px;
+    }
+    .partner-list ul {
+        text-align: center;
+    }
+    .partner-list li a {
+        padding-right: 23px;
+    }
+    .footer-area {
+        height: 124px;
+        padding-top: 4px;
+    }
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+    h2,
+    .single-service-container {
+        font-size: 30px;
+    }
+    .logo {
+        padding: 20px 0;
+        text-align: center;
+    }
+    .mainmenu ul {
+        text-align: center;
+    }
+    .mainmenu li a {
+        padding: 4px;
+    }
+    .sign-up-btn {
+        margin-top: 0;
+    }
+    .slide-text {
+        padding-bottom: 100px;
+        padding-top: 316px;
+        text-align: center;
+    }
+    .single-slide-item,
+    .service-section {
+        font-size: 16px;
+    }
+    .work-section-title {
+        font-size: 15px;
+    }
+    .single-work-box {
+        padding: 47px 23px;
+        height: 286px;
+        margin-bottom: 15px;
+    }
+    .single-work-box img {
+        margin-bottom: 52px;
+    }
+    .work-section {
+        padding: 90px 0;
+    }
+    .number-1 {
+        top: -15px;
+    }
+    .service-section {
+        padding-top: 90px;
+    }
+    .service-section-title {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .single-service-container {
+        height: 40px;
+    }
+    .single-service-icon {
+        padding: 0 10px;
+    }
+    .single-service-icon h3 {
+        margin: 20px 0;
+    }
+    .promo-fullwidth-bg-area {
+        height: 150px;
+    }
+    .white-bg {
+        height: 186px;
+    }
+    .margin-minus {
+        font-size: 12px;
+        line-height: 16px;
+        margin: -18px 0;
+        padding: 10px 10px;
+    }
+    .boxed-content {
+        padding-bottom: 0;
+        padding-top: 0px;
+        margin-top: -8px;
+    }
+    .boxed-content h2 {
+        font-size: 20px;
+        margin-bottom: 6px;
+    }
+    .boxed-content h2 span {
+        font-size: 46px;
+    }
+    .white-bg .bordered-btn {
+        margin-top: 1px;
+        padding: 10px 12px;
+        font-size: 12px;
+    }
+    .white-bg .bordered-btn:hover {
+        border: 0.3px solid #ff298d;
+        padding: 9px 11px;
+    }
+    .fullwidth-content {
+        font-size: 14px;
+        line-height: 16px;
+        padding: 22px 0;
+        margin-left: -18px;
+    }
+    .testimonial-section {
+        padding: 90px 0;
+        padding-bottom: 70px;
+    }
+    .testimonial-slides {
+        font-size: 18px;
+        line-height: 28px;
+        margin: 0 auto;
+    }
+    .partner-section {
+        height: 304px;
+        padding: 29px;
+    }
+    .partner-list ul {
+        text-align: center;
+    }
+    .partner-list li {
+        display: block;
+    }
+    .partner-list li a {
+        padding: 12px 0;
+    }
+    .footer-area {
+        height: 286px;
+        padding-top: 4px;
+    }
+    .footer-area .mainmenu li {
+        display: block;
+    }
+    .footer-area .mainmenu li a {
+        padding: 7px;
+        background: #000;
+        margin: 1px -30px;
+    }
+    .footer-area .mainmenu li a:hover {
+        background: #333;
+    }
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .promo-fullwidth-bg-area {
+        height: 170px;
+    }
+    .margin-minus {
+        font-size: 14px;
+        line-height: 19px;
+        margin: -18px 0;
+        padding: 10px 10px;
+    }
+    .boxed-content {
+        margin-top: 6px;
+        padding: 0px 20px;
+        padding-bottom: 10px;
+    }
+    .white-bg .bordered-btn {
+        margin-top: -5px;
+        padding: 12px 26px;
+        font-size: 15px;
+    }
+    .fullwidth-content {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 45px 0;
+        margin-left: -12px;
+    }
+    .white-bg {
+        height: 206px;
+    }
+}
